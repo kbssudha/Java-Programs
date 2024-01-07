@@ -1,6 +1,6 @@
 package day1;
 
-public class Operators {
+public class Datatypes {
     public static void main(String[] args) {
         String name="Sudhasundari. K";
         int age= 30;
